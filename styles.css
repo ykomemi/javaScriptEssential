@@ -1,0 +1,27 @@
+.site-header {
+  display: flex;
+  height: auto;
+  padding: 10px;
+  margin: 0;
+  color: white;
+  background-color: black;
+}
+
+a.home-btn {
+  text-decoration: none;
+  color: white;
+}
+.site-body {
+  display: flex;
+}
+
+.card {
+  display: block;
+  height: auto;
+  padding: 15px;
+  margin: 10px;
+  text-align: center;
+  -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+}
